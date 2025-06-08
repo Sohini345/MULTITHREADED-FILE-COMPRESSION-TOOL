@@ -26,6 +26,10 @@ Built with the C++17 Standard Library and the popular zlib compression library, 
 
 ✅ Multithreaded Decompression: Compressed chunks are decompressed concurrently and reassembled in the correct order.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f3b05852-9295-45ab-b880-678a4c4f0e16)
+
 ✅ Chunk-Based Design: Efficient memory and CPU usage; works well for large files.
 
 ✅ Performance Measurement: Built-in timing mechanism to measure execution time of compression and decompression phases.
